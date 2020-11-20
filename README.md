@@ -6,5 +6,7 @@ European Parliament Proceedings Parallel Corpus 1996-2011 [Dutch-English ](https
 
 ## Implementation details
 • Developed a Cross-Lingual Document Translator, using Statistical Machine Translation model
+
 • The statistical model, IBM Model 1, was trained for alignment and translation
+
 • Performance metrics such as cosine similarity and Pearson’s correlation coefficient were also implemented
