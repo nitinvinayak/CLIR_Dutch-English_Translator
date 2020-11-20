@@ -2,7 +2,7 @@
 CS F469: Information Retrieval Course Project 
 
 ## Dataset used
-European Parliament Proceedings Parallel Corpus 1996-2011 [Dutch-English ](https://www.statmt.org/europarl/v7/nl-en.tgz)
+European Parliament Proceedings Parallel Corpus 1996-2011 [Dutch-English ](https://www.kaggle.com/nitinvinayak/dutch-english-europarl-parallel-corpus-nlp-smt)
 
 ## Implementation details
 • Developed a Cross-Lingual Document Translator, using Statistical Machine Translation model
